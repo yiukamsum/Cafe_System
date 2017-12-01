@@ -287,7 +287,7 @@ Public Class frmCafe
                 End If
             Next
             If lines = "" Then
-                MessageBox.Show(txtFindName.Text & " is not in the list.")
+                MessageBox.Show("Customer not found")
             Else
                 MessageBox.Show(txtFindName.Text & " is on line " & lines & "of the list.")
             End If
