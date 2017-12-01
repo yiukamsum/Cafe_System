@@ -1,0 +1,26 @@
+D:\Surface\Desktop\Cafe_System\Cafe_System\bin\Debug\Database.mdb
+D:\Surface\Desktop\Cafe_System\Cafe_System\bin\Debug\Cafe System.exe.config
+D:\Surface\Desktop\Cafe_System\Cafe_System\bin\Debug\Cafe System.exe
+D:\Surface\Desktop\Cafe_System\Cafe_System\bin\Debug\Cafe System.pdb
+D:\Surface\Desktop\Cafe_System\Cafe_System\bin\Debug\Cafe System.xml
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe_System.vbprojResolveAssemblyReference.cache
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe_System.AboutBox1.resources
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe_System.frmCafe.resources
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe_System.Resources.resources
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe_System.SplashScreen1.resources
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe_System.vbproj.GenerateResource.Cache
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe_System.vbproj.CoreCompileInputs.cache
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe System.exe
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe System.xml
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe System.pdb
+D:\Surface\Desktop\Cafe_System\Cafe_System\bin\Debug\Cafe System.exe.manifest
+D:\Surface\Desktop\Cafe_System\Cafe_System\bin\Debug\Cafe System.application
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe System.exe.manifest
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe System.application
+D:\Surface\Desktop\Cafe_System\Cafe_System\bin\Debug\aa-DJ\Cafe System.resources.dll
+D:\Surface\Desktop\Cafe_System\Cafe_System\bin\Debug\en-HK\Cafe System.resources.dll
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe_System.frmCafe.aa-DJ.resources
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe_System.frmCafe.en-HK.resources
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\aa-DJ\Cafe System.resources.dll
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\en-HK\Cafe System.resources.dll
+D:\Surface\Desktop\Cafe_System\Cafe_System\obj\Debug\Cafe_System.frmList.resources
